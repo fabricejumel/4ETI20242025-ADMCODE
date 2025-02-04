@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
   print('Code executed under the scope: ', __name__)
 ```
-Pour chaque question, indiquez vos sites choisis pour reference ( où le prompt de l'outil d'IA utilisé)
+Pour chaque question, indiquez vos sites choisis pour reference ( Si vous utilisez une IA, chercher une source de référence)
 
   1. A quoi sert requirments.txt ?
 
