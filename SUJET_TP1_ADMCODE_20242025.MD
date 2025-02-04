@@ -8,7 +8,7 @@ Le rendu  est un ensemble de rendu à faire en markdown sous github. L'idée est
 
 Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
-A part pour les questions Préparatoires , votre objectif est de  créer des dépots git pour chaque question.
+A part pour les questions Préparatoires , votre objectif est de  créer des dépots git (sous gitlab) pour chaque question.
 
 l’idée est de faire mieux , en lien avec votre sujet (bien sûr) que ces deux exemples :
 
